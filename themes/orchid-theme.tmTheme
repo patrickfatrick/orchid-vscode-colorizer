@@ -169,7 +169,7 @@
       <key>name</key>
       <string>js object (also php)</string>
       <key>scope</key>
-      <string>variable.other.property.php, variable.other.object.js, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key</string>
+      <string>variable.other.property.php, variable.other.object.js, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key, support.variable.property.dom</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
