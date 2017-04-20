@@ -178,17 +178,6 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>constant object key</string>
-      <key>scope</key>
-      <string>meta.property.object, meta.object-literal.key.js</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#63E87F</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
       <string>js variable readwrite</string>
       <key>scope</key>
       <string>meta.initialization, variable.other.readwrite</string>
