@@ -156,9 +156,20 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Function arg</string>
+      <key>scope</key>
+      <string>meta.function.argument, variable.parameter, meta.parens.c</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF9A69</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>js object</string>
       <key>scope</key>
-      <string>string.unquoted.label.js, entity.name.label.js</string>
+      <string>tring.unquoted.label.js, entity.name.label.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -169,29 +180,7 @@
       <key>name</key>
       <string>js object (also php)</string>
       <key>scope</key>
-      <string>variable.other.property.php, variable.other.object.js, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key, support.variable.property.dom</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FFDAA5</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>js variable readwrite</string>
-      <key>scope</key>
-      <string>meta.initialization, variable.other.readwrite</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FFDAA5</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Function arg</string>
-      <key>scope</key>
-      <string>meta.function.argument, variable.parameter, meta.parens.c</string>
+      <string>variable.other.property.php, variable.other.readwrite, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key, support.variable.property.dom, variable.other.object.property</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
