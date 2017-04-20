@@ -169,7 +169,7 @@
       <key>name</key>
       <string>js object (also php)</string>
       <key>scope</key>
-      <string>variable.other.property.php, variable.other.object.js, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other</string>
+      <string>variable.other.property.php, variable.other.object.js, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -1147,33 +1147,6 @@ meta.property-value support.constant.named-color.css</string>
         <key>foreground</key>
         <string>#FFAED</string>
       </dict>
-    </dict>
-    <!-- BracketsHighlighter Styles -->
-    <dict>
-      <key>name</key>
-      <string>Bracket Default</string>
-      <key>scope</key>
-      <string>brackethighlighter.orchid</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FFFAED</string>
-        <key>background</key>
-        <string>#DA70D6</string>
-      </dict>
-    </dict>
-    <dict>
-        <key>name</key>
-        <string>Bracket Unmatched</string>
-        <key>scope</key>
-        <string>brackethighlighter.orchidUnmatched</string>
-        <key>settings</key>
-        <dict>
-            <key>foreground</key>
-            <string>#FFFAED</string>
-            <key>background</key>
-            <string>#E84D49</string>
-        </dict>
     </dict>
   </array>
   <key>uuid</key>
