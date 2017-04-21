@@ -829,9 +829,9 @@ meta.property-value support.constant.named-color.css</string>
     <!-- ES6 module keywords -->
     <dict>
       <key>name</key>
-      <string>keyword.operator.js</string>
+      <string>Keyword overrides</string>
       <key>scope</key>
-      <string>keyword.operator.module.js, keyword.operator.new.js</string>
+      <string>keyword.operator.module, keyword.operator.new, support.class.console</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
