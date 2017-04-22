@@ -136,7 +136,7 @@
       <key>name</key>
       <string>Variables</string>
       <key>scope</key>
-      <string>variable, variable.other.constant, variable.other.readwrite.alias, variable.other.readwrite.instance, variable.other.readwrite.class</string>
+      <string>variable, variable.other.constant, variable.other.readwrite.alias, variable.other.readwrite.instance, variable.other.readwrite.class, meta.definition.variable variable.other.readwrite</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -831,7 +831,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>keyword.operator.js</string>
       <key>scope</key>
-      <string>keyword.operator.module.js, keyword.operator.new.js, support.class.console, storage.type.function.arrow</string>
+      <string>keyword.operator.module.js, keyword.operator.new.js, support.class.console, storage.type.function.arrow, storage.type.function.coffee, storage.type.class.coffee, storage.type.class.jsdoc</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
