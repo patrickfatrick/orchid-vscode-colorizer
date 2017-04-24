@@ -831,7 +831,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>keyword.operator.js</string>
       <key>scope</key>
-      <string>keyword.operator.module.js, keyword.operator.new.js, support.class.console, storage.type.function.arrow, storage.type.function.coffee, storage.type.class.coffee, storage.type.class.jsdoc</string>
+      <string>keyword.operator.module.js, keyword.operator.new.js, support.class.console, storage.type.function.arrow, storage.type.function.coffee, storage.type.class.coffee, storage.type.class.jsdoc, storage.type.annotation.java</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
