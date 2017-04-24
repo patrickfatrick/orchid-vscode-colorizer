@@ -2,7 +2,7 @@
   "name": "orchid-colorizer",
   "displayName": "orchid-vscode-colorizer",
   "description": "Orchid colorizer theme for VSCode",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "publisher": "patrickfatrick",
   "engines": {
     "vscode": "^1.11.0"
