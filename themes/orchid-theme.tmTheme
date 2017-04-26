@@ -192,7 +192,7 @@ meta.function-call, support.function, keyword.other.special-method, meta.block-l
       <key>name</key>
       <string>Classes</string>
       <key>scope</key>
-      <string>support.class, entity.name.class, entity.name.type.class, variable.type, support.class.builtin, variable.other.class, entity.name.type, storage.type, storage.modifier.import</string>
+      <string>support.class, entity.name.class, entity.name.type.class, variable.type, support.class.builtin, variable.other.class, entity.name.type, storage.type, storage.modifier.import, support.constant.math</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
