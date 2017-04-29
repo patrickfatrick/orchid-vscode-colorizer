@@ -899,7 +899,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>JSON property top</string>
       <key>scope</key>
-      <string>meta.structure.dictionary.json string.quoted.double, support.type.property-name, entity.name.tag.yaml</string>
+      <string>meta.structure.dictionary.json string.quoted.double, support.type.property-name, punctuation.support.type.property-name, entity.name.tag.yaml</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -954,7 +954,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>JSON value</string>
       <key>scope</key>
-      <string>meta.structure.dictionary.value.json string.quoted.double</string>
+      <string>meta.structure.dictionary.value.json, string.quoted.double, punctuation.definition.string.json</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -1058,17 +1058,6 @@ meta.property-value support.constant.named-color.css</string>
       <dict>
         <key>foreground</key>
         <string>#00B0FF</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>JSON prop string punctuation</string>
-      <key>scope</key>
-      <string>meta.structure.dictionary.json string punctuation.definition.string</string>
-      <key>settings</key>
-      <dict>
-        <key>foreground</key>
-        <string>#FFFAED</string>
       </dict>
     </dict>
     <dict>
