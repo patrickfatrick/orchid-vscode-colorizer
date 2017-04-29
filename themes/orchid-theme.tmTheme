@@ -608,11 +608,11 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>Embedded</string>
       <key>scope</key>
-      <string>punctuation.section.embedded, variable.interpolation</string>
+      <string>punctuation.section.embedded.begin, punctuation.section.embedded.end, variable.interpolation</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d3423eff</string>
+        <string>#DA70D6</string>
       </dict>
     </dict>
     <dict>
@@ -887,7 +887,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>String Templates</string>
       <key>scope</key>
-      <string>meta.template.expression.js, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end, punctuation.section.embedded.begin, punctuation.section.embedded.end source</string>
+      <string>meta.template.expression.js, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
