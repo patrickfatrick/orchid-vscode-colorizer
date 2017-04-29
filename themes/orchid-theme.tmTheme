@@ -954,7 +954,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>JSON value</string>
       <key>scope</key>
-      <string>meta.structure.dictionary.value.json, string.quoted.double, punctuation.definition.string.json</string>
+      <string>meta.structure.dictionary.value.json, meta.structure.dictionary.value.json string.quoted.double.json, punctuation.definition.string.json</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
