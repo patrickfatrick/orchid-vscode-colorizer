@@ -608,7 +608,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>Embedded</string>
       <key>scope</key>
-      <string>punctuation.section.embedded.begin, punctuation.section.embedded.end, variable.interpolation</string>
+      <string>punctuation.section.embedded.begin, punctuation.section.embedded.end, punctuation.section.embedded.end source, variable.interpolation</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
