@@ -81,7 +81,7 @@
       <key>name</key>
       <string>Punctuation</string>
       <key>scope</key>
-      <string>punctuation, punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, meta.instance.constructor.js, punctuation.separator.key-value.js, punctuation.definition.method-parameters.begin, punctuation.definition.method-parameters.end, punctuation.terminator</string>
+      <string>punctuation, punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, meta.instance.constructor.js, punctuation.separator.key-value.js, punctuation.definition.method-parameters.begin, punctuation.definition.method-parameters.end, punctuation.terminator, meta.brace</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
