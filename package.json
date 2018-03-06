@@ -1,23 +1,23 @@
 {
-  "name": "orchid-colorizer",
-  "displayName": "orchid-vscode-colorizer",
-  "description": "Orchid colorizer theme for VSCode",
-  "version": "0.0.27",
-  "publisher": "patrickfatrick",
-  "repository": "https://github.com/patrickfatrick/orchid-vscode-colorizer",
-  "engines": {
-    "vscode": "^1.11.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Orchid Colorizer",
-        "uiTheme": "vs-dark",
-        "path": "./themes/orchid-theme.tmTheme"
-      }
-    ]
-  }
+    "name": "orchid-colorizer",
+    "displayName": "orchid-vscode-colorizer",
+    "description": "Orchid colorizer theme for VSCode",
+    "version": "0.0.28",
+    "publisher": "patrickfatrick",
+    "repository": "https://github.com/patrickfatrick/orchid-vscode-colorizer",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Orchid Colorizer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/orchid-theme.tmTheme"
+            }
+        ]
+    }
 }
