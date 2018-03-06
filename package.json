@@ -4,6 +4,7 @@
   "description": "Orchid colorizer theme for VSCode",
   "version": "0.0.27",
   "publisher": "patrickfatrick",
+  "repository": "https://github.com/patrickfatrick/orchid-vscode-colorizer",
   "engines": {
     "vscode": "^1.11.0"
   },
