@@ -291,7 +291,7 @@ meta.function-call, support.function, keyword.other.special-method, meta.block-l
       <key>name</key>
       <string>Strings, Inherited Class</string>
       <key>scope</key>
-      <string>string, constant.other.symbol, entity.other.inherited-class</string>
+      <string>string, punctuation.definition.quasi, punctuation.definition.string, constant.other.symbol, entity.other.inherited-class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -887,7 +887,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>String Templates</string>
       <key>scope</key>
-      <string>meta.template.expression.js, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end</string>
+      <string>meta.template.expression, punctuation.definition.template-expression, punctuation.quasi.element</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
