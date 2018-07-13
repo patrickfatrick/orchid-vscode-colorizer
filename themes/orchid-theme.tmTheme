@@ -74,14 +74,25 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#FFFAED</string> <!-- text colour -->
+        <string>#FFFAED</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Text and Source Base Color Override</string>
+      <key>scope</key>
+      <string>source.ruby, meta.function-call</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFDAA5</string>
       </dict>
     </dict>
     <dict>
       <key>name</key>
       <string>Punctuation</string>
       <key>scope</key>
-      <string>punctuation, punctuation.definition.string, punctuation.definition.variable, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, meta.instance.constructor.js, punctuation.separator.key-value.js, punctuation.definition.method-parameters.begin, punctuation.definition.method-parameters.end, punctuation.terminator, meta.brace</string>
+      <string>punctuation, punctuation.definition.string, punctuation.definition.string, punctuation.definition.parameters, punctuation.definition.string, punctuation.definition.array, meta.instance.constructor.js, punctuation.separator.key-value.js, punctuation.definition.method-parameters.begin, punctuation.definition.method-parameters.end, punctuation.terminator, meta.brace, keyword.operator</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -112,9 +123,9 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Logical Operators</string>
+      <string>Operators</string>
       <key>scope</key>
-      <string>keyword.operator, keyword.operator.logical</string>
+      <string>keyword.operator</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -125,7 +136,7 @@
       <key>name</key>
       <string>Keywords</string>
       <key>scope</key>
-      <string>keyword</string>
+      <string>keyword, keyword punctuation</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -167,9 +178,9 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>js object (also php)</string>
+      <string>Objects</string>
       <key>scope</key>
-      <string>variable.other.property.php, variable.other.readwrite, meta.property.object.js, variable.other.property.static.js, support.variable.property.js, variable.other, meta.object-literal.key, support.variable.property.dom, variable.other.object.property, meta.method.body.java meta.method-call.java, meta.method.body.java</string>
+      <string>variable.other.property, variable.other.readwrite, meta.property.object, support.variable.property, variable.other, meta.object-literal.key, support.variable.property.dom, variable.other.object.property, meta.method.body.java meta.method-call.java, meta.method.body.java</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -180,8 +191,7 @@
       <key>name</key>
       <string>Functions</string>
       <key>scope</key>
-      <string>entity.name.function, meta.require, support.function.any-method,
-meta.function-call, support.function, keyword.other.special-method, meta.block-level, variable.function, meta.method.body.java meta.method.java</string>
+      <string>entity.name.function, meta.require, support.function.any-method, support.function, keyword.other.special-method, meta.block-level, variable.function, meta.method.body.java meta.method.java</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -258,7 +268,7 @@ meta.function-call, support.function, keyword.other.special-method, meta.block-l
       <key>name</key>
       <string>Support</string>
       <key>scope</key>
-      <string>support.function, keyword.operator.dereference, constant.other.color, meta.function-call, meta.function-call.arguments</string>
+      <string>support.function, keyword.operator.dereference, constant.other.color</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -797,7 +807,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>variable.language.js</string>
       <key>scope</key>
-      <string>variable.language.this.js, variable.language.arguments.js, variable.language.super.js, variable.language.proto.js, variable.language.constructor.js, variable.language.prototype.js, support.type.object.dom.js, meta.property.object.dollar.js, variable.other.dollar.js, punctuation.definition.variable.php</string>
+      <string>variable.language.this.js, variable.language.arguments.js, variable.language.super.js, variable.language.proto.js, variable.language.constructor.js, variable.language.prototype.js, support.type.object.dom.js, meta.property.object.dollar.js, variable.other.dollar.js, punctuation.definition.variable</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -808,7 +818,7 @@ meta.property-value support.constant.named-color.css</string>
       <key>name</key>
       <string>Support</string>
       <key>scope</key>
-      <string>support</string>
+      <string>support, meta.property-value</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
